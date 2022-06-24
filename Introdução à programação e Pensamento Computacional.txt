@@ -1,0 +1,56 @@
+**Comecei o curso no dia 24-05-22, os tópicos que aprendi no curso até o momento:**
+
+# **Pensamento computacional**
+
+- Apresentação
+- Introdução
+- Habilidade complementares
+
+- Pilares: Decomposição 
+- Pilares: Padrões
+- Pilares: Abstração
+- Pilares: Algoritmos
+- Estudo de caso conceitual: perdido
+- Estudo de caso aplicado: Soma de um intervalo
+- Estudo de caso aplicado: Adivinhe um número
+
+# **Introdução à lógica da programação**
+
+- O que é lógica?
+- Técnicas de lógica de programação
+
+# **Fundamentos de algoritmos**
+
+Tipologia e variáveis
+
+Instruções primitivas
+
+Estruturas condicionais e operadores
+
+Estruturas de repetição
+
+Vetores e matrizes
+
+O que são funções?
+
+Instruções de entrada/saída
+
+# **Linguagens de programação**
+
+- Introdução à linguagens de programação
+- Como um computador entende o programa?
+- Características de um programa
+- Análises de código
+- Paradigmas de programação
+
+# **Primeiro contato com a programação**
+
+Algoritmos em portugol
+
+Considerações finais
+
+Materiais de apoio
+
+Certifique seu conhecimento
+
+Esses conteúdo foi de muita importância para mim, por que me proporcionou um conhecimento na qual irei utilizar em todas as linguagens e ao longo da minha vida.
